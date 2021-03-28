@@ -5,4 +5,6 @@ Tarea 1: 100%
 
 Tarea 2: 98%
 
+Tarea 3: 90%
+
 Tarea4: 100%
